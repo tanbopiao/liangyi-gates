@@ -1,0 +1,1 @@
+{ "name": "liangyi-gates", "version": "0.1.0", "description": "两仪 · 红蓝双引擎校准网关：预期与判定的分歧即校准项", "type": "commonjs", "main": "calibrate.js", "license": "Apache-2.0" }

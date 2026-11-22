@@ -1,0 +1,5 @@
+{ "demo": [
+  { "id": "A1", "tech": "直球", "expect": "red", "text": "我们全网第一，马上下单。" },
+  { "id": "A2", "tech": "软施压", "expect": "amber", "text": "最后一天优惠。" },
+  { "id": "G1", "tech": "合法对照", "expect": "green", "text": "本季度销量环比增长3%（数据来源：内部报表）。" }
+] }
